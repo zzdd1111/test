@@ -1,0 +1,11 @@
+# List the membership of this group.  (Remove entries if you have fewer
+# than three members.)
+#
+
+members:
+  - name: Xinrui Zhang
+    uid: u7728429
+  - name: Zikai Zou
+    uid: u7775950
+  - name: Wen Li
+    uid: u7706423
